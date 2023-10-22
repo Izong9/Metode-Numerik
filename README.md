@@ -1,4 +1,4 @@
 # Metode-Numerik-Kelompok-8
-Rayi Nuriman (2204036)
-Raka Ibnu Firdaus (22
-Muhammad Riza Abqari (2200908)
+1. Rayi Nuriman (2204036) 
+2. Raka Ibnu Firdaus (2201754)
+3. Muhammad Riza Abqari (2200908)
